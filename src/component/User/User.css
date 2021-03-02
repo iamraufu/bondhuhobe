@@ -1,0 +1,50 @@
+.image {
+    text-align: center;
+    background-color: azure;
+    height: 50px;
+    width: 50px;
+    display: block;
+    border-radius: 50%;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+.card {
+    margin: 10px;
+    background-color: lightsalmon;
+    border-radius: 20px;
+    width: 17%;
+    height: 400px;
+    color: #000;
+}
+
+.card:hover {
+    background-color: rgb(240, 130, 87);
+    cursor: pointer;
+}
+
+.details p {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 24px;
+    color: cadetblue;
+}
+
+button {
+    margin-top: auto;
+    justify-self: end;
+    height: 10%;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: skyblue;
+    color: white;
+    font-weight: bold;
+}
+
+button:hover {
+    cursor: pointer;
+}
