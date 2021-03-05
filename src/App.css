@@ -42,3 +42,7 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+
+ul {
+    list-style-type: none;
+}

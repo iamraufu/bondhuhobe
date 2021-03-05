@@ -35,6 +35,7 @@ h2 {
 
 button {
     margin-top: auto;
+    margin-right: 10px;
     justify-self: end;
     height: 10%;
     border: none;
